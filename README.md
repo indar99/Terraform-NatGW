@@ -1,2 +1,2 @@
-# Terraform-NatGW
-Natgw vpc peering 
+# Terraform-vpc-peering
+Terraform-vpc-peering
